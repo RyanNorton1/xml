@@ -1,0 +1,24 @@
+<document>
+	<entryOne path="valid">
+		<detailsAlpha path="invalid">
+			<infoZeta path="valid"/>
+		</detailsAlpha>
+	</entryOne>
+	<entryTwo path="invalid">
+		<detailsBeta path="valid"/>
+		<infoDelta path="invalid"/>
+	</entryTwo>
+	<entryThree path="valid">
+		<detailsGamma path="valid"/>
+	</entryThree>
+	<sectionOne path="valid">
+		<subsectionAlpha path="invalid">
+			<subinfoOmega path="valid"/>
+		</subsectionAlpha>
+	</sectionOne>
+	<sectionTwo path="invalid">
+		<subsectionBeta path="valid">
+			<subinfoTheta path="invalid"/>
+		</subsectionBeta>
+	</sectionTwo>
+</document>
